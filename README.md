@@ -1,2 +1,2 @@
 # News Card
- A simple news card with css transitions. Inspired by https://css-tricks.com/ front page.
+ Um projeto simples de treinamento com transição em CSS. Inspiração  https://css-tricks.com/ front page.
