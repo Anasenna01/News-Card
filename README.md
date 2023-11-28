@@ -1,6 +1,4 @@
 # News Card
- Um projeto simples para treinamento com transição e flexbox em CSS.
-
  # 📝 Descrição
 
 Componentes de card de noticias desenvolvida em HTML e CSS para treinamento com transição e flexbox em CSS e boas práticas de codificação.
