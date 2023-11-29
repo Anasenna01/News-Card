@@ -5,7 +5,7 @@ Componentes de card de noticias desenvolvida em HTML e CSS para treinamento com 
 
 # 💻 Tecnologias
 
-As principais tecnologias, ferramentas e bibliotecas que você usou no seu projeto.
+As principais tecnologias, ferramentas e bibliotecas que eu usei no projeto.
 
 - HTML: Para estruturação do conteúdo da página em elementos como div e classes;
 - CSS: Para estilizar a página com cores, fontes, bordas, margens, alinhamentos e variáveis;
